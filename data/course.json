@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "1999",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ],
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ]
+  ],
+  "legacy_uid": "eab5dfaa-745a-8b6c-4865-a3332307e6a3",
+  "instructors": {
+    "content": [
+      "3f3b22b6-1ab2-3d8d-7086-42e806c88151"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1790a782-d0d0-1699-e160-227fa083ce88",
+    "website": "18-04-complex-variables-with-applications-fall-1999"
+  },
+  "course_title": "Complex Variables with Applications",
+  "course_description": "The following topics are covered in the course: complex algebra and functions; analyticity; contour integration, Cauchy's theorem; singularities, Taylor and Laurent series; residues, evaluation of integrals; multivalued functions, potential theory in two dimensions; Fourier analysis and Laplace transforms.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.04",
+  "course_image_thumbnail": {
+    "content": "8e5e9ab3-4dda-e984-5836-bc5f928f14ab",
+    "website": "18-04-complex-variables-with-applications-fall-1999"
+  },
+  "learning_resource_types": [
+    "Exams with Solutions",
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "0df6fd38-311e-47b3-b355-5a6ba46e04e0",
+  "site_short_id": "18.04-fall-1999",
+  "site_url_path": "courses/18-04-complex-variables-with-applications-fall-1999",
+  "title": "Course Metadata"
+}
