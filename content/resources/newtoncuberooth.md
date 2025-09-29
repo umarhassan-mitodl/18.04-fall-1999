@@ -5,6 +5,8 @@ description: 'Figure 1: Newton''s method of attraction basins for z[exp]3=1. Pic
 file: /courses/18-04-complex-variables-with-applications-fall-1999/37f191be1d3fcb799210680825a78e83_NewtonCubeRootH.GIF
 file_size: 9221
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

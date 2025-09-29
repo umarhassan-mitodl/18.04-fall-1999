@@ -4,6 +4,8 @@ description: 'Figure 2: Imaginary part of the Principal Value of the cube root.'
 file: /courses/18-04-complex-variables-with-applications-fall-1999/f2392800de97795705710d6e006b6221_ImCubeRootPV.GIF
 file_size: 5487
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

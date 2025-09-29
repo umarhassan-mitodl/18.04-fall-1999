@@ -4,6 +4,8 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-fall-1999/ff8e458f3d9889cf7ee70d49f164f036_riem_sqrt_Z2m1_tv.GIF
 file_size: 5910
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

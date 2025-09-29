@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the readings for each lecture session and comments
   on the various sections of the book.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

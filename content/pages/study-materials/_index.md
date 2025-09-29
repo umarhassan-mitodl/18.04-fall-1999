@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides study materials on Newton iterations and Riemann
   surfaces.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -5,6 +5,8 @@ description: 'Figure 1: Real part of the Principal Vale of the cube root. Pictur
 file: /courses/18-04-complex-variables-with-applications-fall-1999/38241b4f51d4615df94d343208a83f9f_ReCubeRootPVH.GIF
 file_size: 12505
 file_type: image/gif
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
