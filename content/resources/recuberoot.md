@@ -4,8 +4,6 @@ description: 'Figure 1: Real part of the cube root on the complex plane.'
 file: /courses/18-04-complex-variables-with-applications-fall-1999/05bcb290edc1d0dc1ee9543a2e2c3a84_ReCubeRoot.GIF
 file_size: 6353
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

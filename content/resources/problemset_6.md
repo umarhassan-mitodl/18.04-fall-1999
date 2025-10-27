@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-fall-1999/690df9b8bfacfbb3c7bd4ebb6583ac1c_ProblemSet_6.pdf
 file_size: 30872
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

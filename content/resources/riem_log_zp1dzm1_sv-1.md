@@ -4,8 +4,6 @@ description: 'Figure 1: Riemann Surface of the function f(z)=log((z+1)/(z-1))'
 file: /courses/18-04-complex-variables-with-applications-fall-1999/0dced190868b29c52967e5d9331ee72e_riem_log_Zp1dZm1_sv.GIF
 file_size: 4042
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

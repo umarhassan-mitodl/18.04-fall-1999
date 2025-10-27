@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-04-complex-variables-with-applications-fall-1999/433579a8787b458cb8d4dc320b350350_MatLab_Tutorial.pdf
 file_size: 115716
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

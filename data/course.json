@@ -30,7 +30,6 @@
     "website": "18-04-complex-variables-with-applications-fall-1999"
   },
   "course_title": "Complex Variables with Applications",
-  "hide_download": true,
   "course_description": "The following topics are covered in the course: complex algebra and functions; analyticity; contour integration, Cauchy's theorem; singularities, Taylor and Laurent series; residues, evaluation of integrals; multivalued functions, potential theory in two dimensions; Fourier analysis and Laplace transforms.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "8e5e9ab3-4dda-e984-5836-bc5f928f14ab",
     "website": "18-04-complex-variables-with-applications-fall-1999"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Exams with Solutions",
     "Problem Sets with Solutions"

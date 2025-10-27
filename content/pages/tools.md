@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides a MATLAB tutorial and information on the MATLAB
   scripts used for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -24,7 +22,7 @@ The scripts are an integral part of the course. The students are expected to use
 
 Further information can be found at:
 
-"[A Practical Introduction to MATLAB®](http://www.math.mtu.edu/~msgocken/intro/intro.html)"
+"{{% resource_link "a4546107-0a38-41cd-bb74-0eaeca4e0f83" "A Practical Introduction to MATLAB®" %}}"
 
 > It is a good starting. The section on "Simple calculations and graphs" is particularly appropriate for help in getting started.
 

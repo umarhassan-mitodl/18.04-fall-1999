@@ -4,8 +4,6 @@ description: 'Figure 2: Riemann Surface for the function f(z)=log(1-z[exp]1/2)'
 file: /courses/18-04-complex-variables-with-applications-fall-1999/2ab11c8d669f05138b4f71aa295fcc9e_riem_log_1mSqrt_Z_b.GIF
 file_size: 3779
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
